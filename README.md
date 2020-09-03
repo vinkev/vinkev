@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinlinggajaya" alt="kevinlinggajaya" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://bitbucket.org/vinkev/](https://bitbucket.org/vinkev/)
+- 👨‍💻 All of my projects are available at [https://bitbucket.org/vinkev/](https://bitbucket.org/vinkev/) and [https://github.com/KevinLinggajaya/](https://github.com/KevinLinggajaya)
 
 - 💬 Ask me about **PHP, Laravel, jQuery or any web development stuff**
 
