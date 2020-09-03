@@ -1,21 +1,19 @@
-[![Github stats](https://github-readme-stats.vercel.app/api?username=KevinLinggajaya&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=KevinLinggajaya&count_private=true&show_icons=true)
+<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h3 align="center">I'm a Full Stack Laravel Web Developer from Indonesia</h3>
 
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinlinggajaya" alt="kevinlinggajaya" /> </p>
 
-## I'm a full stack Laravel web engineer.
+- 👨‍💻 All of my projects are available at [https://bitbucket.org/vinkev/](https://bitbucket.org/vinkev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLinggajaya)](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLinggajaya)
+- 💬 Ask me about **PHP, Laravel, jQuery or any web development stuff**
 
-<!-- Actual text -->
+- 📫 How to reach me **kevin.linggajaya@gmail.com**
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlinggajaya" alt="kevinlinggajaya" /></p>
 
-<!-- Icons -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlinggajaya&show_icons=true&count_private=true" alt="kevinlinggajaya" /></p>
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/vin_kev
-[2]: https://www.linkedin.com/in/kevinlinggajaya/
+<p align="center">
+<a href="https://twitter.com/vin_kev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vin_kev" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kevinlinggajaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kevinlinggajaya" height="30" width="30" /></a>
+</p>
