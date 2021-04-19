@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">I'm a Full Stack Laravel Web Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinekv" alt="vinkev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinkev" alt="vinkev" /> </p>
+<p align="center">
+[![Twitter Follow](https://img.shields.io/twitter/follow/vin_kev?label=vin_kev)](https://twitter.com/intent/follow?screen_name=vin_kev)
+[![Linkedin: kevinlinggajaya](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinlinggajaya/)](https://www.linkedin.com/in/kevinlinggajaya/)
+![GitHub followers](https://img.shields.io/github/followers/vinkev?label=Follow&style=social)
+</p>
 
 - 👨‍💻 All of my projects are available at [https://bitbucket.org/vinkev/](https://bitbucket.org/vinkev/) and [https://github.com/vinkev/](https://github.com/vinkev)
 
