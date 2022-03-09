@@ -30,4 +30,4 @@
 <p>&nbsp;</p>
 <h2 align="center">🧑‍💻  This week, I spent my time on:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinkev&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&"></p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinkev&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&langs_count=12"></p>
