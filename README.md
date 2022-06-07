@@ -28,6 +28,11 @@
 </a>
 </p>
 <p>&nbsp;</p>
-<h2 align="center">🧑‍💻  This week, I spent my time on:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinkev&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&langs_count=12"></p>
+<h2 align="center">🧑‍💻  For the last 30 days, I spent my time on:</h2>
+
+<table border="0">
+ <tr>
+    <td><img src="https://wakatime.com/share/@vinkev/15d07a4a-0284-49dd-bdc0-3b2edd5597c2.svg"/></td>
+    <td><img src="https://wakatime.com/share/@vinkev/d8791825-e049-4678-8421-abd126c96cca.svg"/></td>
+ </tr>
+</table>
