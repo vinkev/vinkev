@@ -20,13 +20,11 @@
 <p>&nbsp;</p>
 <h2 align="center">&#x1f4c8; GitHub Stats</h2>
 <p align="center">
-<a href="https://github.com/vinkev/vinkev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinkev&hide=css,apacheconf&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Kevin's GitHub Stats" />
-</a>
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <a href="https://github.com/vinkev/vinkev">
+  <img align="center" src="https://raw.githubusercontent.com/vinkev/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img align="center" src="https://raw.githubusercontent.com/vinkev/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinkev&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Kevin's GitHub Stats" />
 </a>
-<img align="center" src="https://raw.githubusercontent.com/vinkev/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 </p>
 <p>&nbsp;</p>
 <h2 align="center">🧑‍💻  For the last 7 days, I spent my time on:</h2>
