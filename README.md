@@ -29,9 +29,9 @@
 <img align="center" src="https://raw.githubusercontent.com/vinkev/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 </p>
 <p>&nbsp;</p>
-<h2 align="center">🧑‍💻  For the last 30 days, I spent my time on:</h2>
+<h2 align="center">🧑‍💻  For the last 7 days, I spent my time on:</h2>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@vinkev/15d07a4a-0284-49dd-bdc0-3b2edd5597c2.svg" width="80%"/>
+  <img src="https://wakatime.com/share/@vinkev/1a2b34b3-fa54-4beb-a108-1b1b1cb6f2d7.svg" width="80%"/>
   <img src="https://wakatime.com/share/@vinkev/d8791825-e049-4678-8421-abd126c96cca.svg" width="80%"/>
 </p>
