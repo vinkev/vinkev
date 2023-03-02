@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/kevinlinggajaya/" target="_blank"><img src="https://img.shields.io/badge/-kevinlinggajaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinlinggajaya/" alt="Linkedin: kevinlinggajaya"></a>
 <img src="https://img.shields.io/github/followers/vinkev?label=Follow&style=social" alt="Github Follow">
 <a href="https://kevin.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kevin.my.id/"></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvinkev"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvinkev&label=Visitors&countColor=%23263759&style=flat-square" /></a>
 </p>    
 
 - 👨‍💻 All of my projects are available at [https://bitbucket.org/vinkev/](https://bitbucket.org/vinkev/) and [https://github.com/vinkev/](https://github.com/vinkev)
