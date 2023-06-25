@@ -38,14 +38,6 @@
   <img align="center" src="https://novatorem.vinkev.vercel.app/api/spotify/?background_color=0D1117&border_color=ffffff" alt="Spotify"/>
 </p>
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v4.1.1](https://github.com/v4.1.1) in [vinkev/tracker](https://github.com/vinkev/tracker)
-2. 🎉 Merged PR [#8](https://github.com/vinkev/tracker/pull/8) in [vinkev/tracker](https://github.com/vinkev/tracker)
-3. 💪 Opened PR [#8](https://github.com/vinkev/tracker/pull/8) in [vinkev/tracker](https://github.com/vinkev/tracker)
-4. 🎉 Merged PR [#7](https://github.com/vinkev/tracker/pull/7) in [vinkev/tracker](https://github.com/vinkev/tracker)
-5. 💪 Opened PR [#7](https://github.com/vinkev/tracker/pull/7) in [vinkev/tracker](https://github.com/vinkev/tracker)
-<!--END_SECTION:activity-->
-
 ---
 
 <h2 align="center">&#x1f4c8; GitHub Stats</h2>
