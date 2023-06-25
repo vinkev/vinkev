@@ -38,6 +38,8 @@
   <img align="center" src="https://novatorem.vinkev.vercel.app/api/spotify/?background_color=0D1117&border_color=ffffff" alt="Spotify"/>
 </p>
 
+<!--START_SECTION:activity-->
+
 ---
 
 <h2 align="center">&#x1f4c8; GitHub Stats</h2>
